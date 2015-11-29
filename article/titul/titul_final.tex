@@ -4,10 +4,21 @@
 \usepackage{cmap}
 
 %%% Работа с русским языком
-\usepackage[T2A]{fontenc}
-\usepackage[utf8]{inputenc}
+%\usepackage[T2A]{fontenc}
+%\usepackage[utf8]{inputenc}
+%\usepackage[english,russian]{babel}   %% загружает пакет многоязыковой вёрстки
+%\usepackage{indentfirst}
+
+%%% Работа с русским языком
 \usepackage[english,russian]{babel}   %% загружает пакет многоязыковой вёрстки
+\usepackage{fontspec}      %% подготавливает загрузку шрифтов Open Type, True Type и др.
+\defaultfontfeatures{Ligatures={TeX},Renderer=Basic}  %% свойства шрифтов по умолчанию
+\setmainfont[Ligatures={TeX,Historic}]{Times New Roman} %% задаёт основной шрифт документа
+\setsansfont{Comic Sans MS}                    %% задаёт шрифт без засечек
+\setmonofont{Courier New}
 \usepackage{indentfirst}
+\setlength\parindent{10ex}
+\frenchspacing
 
 \usepackage[top=15mm,bottom=20mm,left=25mm,right=10mm]{geometry}
 
