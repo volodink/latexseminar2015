@@ -1,5 +1,6 @@
-# latexseminar2015
+Семинар "Введение в LaTeX": файлы семинара
 
+Полезные ссылки:
 http://www.ccas.ru/voron/download/voron05latex.pdf
 
 http://zns.susu.ru/IT/latex/formatting/formatting.html
