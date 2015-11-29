@@ -7,3 +7,7 @@
 *.csv~
 .RData
 .Rhistory
+*.nav
+*.toc
+*.snm
+*.out
