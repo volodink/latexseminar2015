@@ -2,3 +2,5 @@
 *.log
 *.synctex.*
 *.md~
+*.toc
+
