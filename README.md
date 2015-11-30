@@ -18,4 +18,6 @@ http://www.inp.nsk.su/~baldin/LaTeX/lurs-presentation.pdf
 
 http://ego-machine.blogspot.ru/2010/03/latex-beamer.html
 
+http://iproc.ru/downloads/LaTeXPresentation.pdf
+
 
