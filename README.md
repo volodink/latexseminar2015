@@ -20,4 +20,5 @@ http://ego-machine.blogspot.ru/2010/03/latex-beamer.html
 
 http://iproc.ru/downloads/LaTeXPresentation.pdf
 
+http://academics.hse.ru/data/2013/11/28/1337609704/Fedorovykh_26.11.2013.pdf
 
