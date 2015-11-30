@@ -16,4 +16,6 @@ https://www.msu.edu/~amunn/latex/nano-companion.pdf
 
 http://www.inp.nsk.su/~baldin/LaTeX/lurs-presentation.pdf
 
+http://ego-machine.blogspot.ru/2010/03/latex-beamer.html
+
 
