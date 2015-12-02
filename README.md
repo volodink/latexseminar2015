@@ -1,5 +1,9 @@
 Семинар "Введение в LaTeX": файлы семинара
 
+Ответы на вопросы:
+
+https://docs.google.com/document/d/1E50T-U9IwXJzssCR26icH1rY8UMeBUjs0j__ueTQWcU/edit
+
 Полезные ссылки:
 
 http://www.ccas.ru/voron/download/voron05latex.pdf
